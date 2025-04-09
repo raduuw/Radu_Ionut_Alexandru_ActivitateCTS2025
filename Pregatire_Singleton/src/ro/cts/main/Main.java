@@ -1,3 +1,5 @@
+package ro.cts.main;
+
 import ro.cts.clase.ManageriStudentiExamenEager;
 import ro.cts.clase.ManageriStudentiExamenLazy;
 
