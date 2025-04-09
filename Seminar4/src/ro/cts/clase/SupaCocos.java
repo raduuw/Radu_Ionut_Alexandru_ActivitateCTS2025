@@ -1,4 +1,4 @@
-package sem4.src.ro.cts.clase;
+package ro.cts.clase;
 
 public class SupaCocos extends Supa{
 

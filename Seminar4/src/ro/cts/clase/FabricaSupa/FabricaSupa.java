@@ -1,4 +1,4 @@
-package sem4.src.ro.cts.clase.FabricaSupa;
+package ro.cts.clase.FabricaSupa;
 
 import ro.cts.clase.Supa;
 import ro.cts.clase.SupaCocos;

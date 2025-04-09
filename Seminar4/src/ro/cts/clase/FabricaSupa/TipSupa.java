@@ -1,4 +1,4 @@
-package sem4.src.ro.cts.clase.FabricaSupa;
+package ro.cts.clase.FabricaSupa;
 
 public enum TipSupa {
     LEGUME,
