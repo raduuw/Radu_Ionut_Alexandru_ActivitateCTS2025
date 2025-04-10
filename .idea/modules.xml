@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CTS_2025.iml" filepath="$PROJECT_DIR$/CTS_2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/PregatireTest 2/PregatireTest 2.iml" filepath="$PROJECT_DIR$/PregatireTest 2/PregatireTest 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PregatireTest3/PregatireTest3.iml" filepath="$PROJECT_DIR$/PregatireTest3/PregatireTest3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pregatire_Singleton/Pregatire_Singleton.iml" filepath="$PROJECT_DIR$/Pregatire_Singleton/Pregatire_Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PretireTest4_Singleton/PretireTest4_Singleton.iml" filepath="$PROJECT_DIR$/PretireTest4_Singleton/PretireTest4_Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
