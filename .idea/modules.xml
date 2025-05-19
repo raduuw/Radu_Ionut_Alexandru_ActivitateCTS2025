@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/PregatireTest2_Adapter/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/PregatireTest2_Adapter/AdapterObiecte/AdapterObiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PregatireTest2_Adapter/Adapter_Clase/Adapter_Clase.iml" filepath="$PROJECT_DIR$/PregatireTest2_Adapter/Adapter_Clase/Adapter_Clase.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS_2025.iml" filepath="$PROJECT_DIR$/CTS_2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/PregatireTest 2/PregatireTest 2.iml" filepath="$PROJECT_DIR$/PregatireTest 2/PregatireTest 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PregatireTest2_Adapter/PregatireTest2_Adapter.iml" filepath="$PROJECT_DIR$/PregatireTest2_Adapter/PregatireTest2_Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/PregatireTest3/PregatireTest3.iml" filepath="$PROJECT_DIR$/PregatireTest3/PregatireTest3.iml" />
       <module fileurl="file://$PROJECT_DIR$/PregatireTest_Builder/PregatireTest_Builder.iml" filepath="$PROJECT_DIR$/PregatireTest_Builder/PregatireTest_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/PregatireTest_FactoryMethod/PregatireTest_FactoryMethod.iml" filepath="$PROJECT_DIR$/PregatireTest_FactoryMethod/PregatireTest_FactoryMethod.iml" />
